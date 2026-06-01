@@ -1,4 +1,5 @@
-Ecommerce Sales Analysis
+# Ecommerce Sales Analysis
+
 About the Project:
 This project analyses transactional data from a mock e-commerce store with 10 customers, 10 products, and 20 orders across 9 months. The goal was to answer key business questions around revenue performance, customer behaviour, and product demand using structured SQL queries. Insights include category-level revenue breakdown, customer spending tiers, monthly sales trends, and identification of non-performing products.
 
@@ -17,7 +18,7 @@ Queries:
 6) Revenue share (%) by category using CTEs and CROSS JOIN
 
 How to Run:
-Open DB Fiddle and select MySQL 8.0
-Paste the schema and INSERT statements into the left panel
-Paste individual SELECT queries into the right panel
-Click Run
+1) Open DB Fiddle and select MySQL 8.0
+2) Paste the schema and INSERT statements into the left panel
+3) Paste individual SELECT queries into the right panel
+4) Click Run
