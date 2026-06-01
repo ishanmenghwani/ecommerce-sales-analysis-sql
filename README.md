@@ -1,5 +1,5 @@
 # ecommerce-sales-analysis-sql
-About the Project
+About the Project:
 This project analyses transactional data from a mock e-commerce store with 10 customers, 10 products, and 20 orders across 9 months. The goal was to answer key business questions around revenue performance, customer behaviour, and product demand using structured SQL queries. Insights include category-level revenue breakdown, customer spending tiers, monthly sales trends, and identification of non-performing products.
 
 Database Schema:
